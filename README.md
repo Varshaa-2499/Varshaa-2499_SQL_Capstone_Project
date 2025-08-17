@@ -21,10 +21,15 @@ Demonstrated advanced SQL concepts like joins, subqueries, window functions, and
 🔹 Key Queries & Use Cases
 
 ✔️ Retrieved the total revenue generated per hospital branch.
+
 ✔️ Identified the list of patients with their latest appointment date.
+
 ✔️ Average treatment cost per specialization.
+
 ✔️ Retrieved the most common reason for patients to visit.
+
 ✔️ Ranked top 3 doctors by highest appointment using RANK().
+
 
 🔹 Tools & Skills Used
 
@@ -70,12 +75,16 @@ README.md → Project documentation.
 
 <img width="1362" height="646" alt="Screenshot 2025-08-17 123311" src="https://github.com/user-attachments/assets/c8059e24-0d41-47ca-93a9-c2d88d223ee7" />
 
+
 <img width="1332" height="603" alt="Screenshot 2025-08-17 123455" src="https://github.com/user-attachments/assets/d996ff8a-0a7c-49e3-b70e-664f175c5564" />
+
 
 <img width="1332" height="820" alt="Screenshot 2025-08-17 123835" src="https://github.com/user-attachments/assets/a42048a9-de17-4730-8c31-fb302b473337" />
 
 
+
 🔹 Dataset Source
+
 
 Kaggle – Hospital Management System Dataset
 
