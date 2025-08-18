@@ -10,60 +10,50 @@ The goal of this project is to create a relational database schema, run analytic
 
 🔹 Objectives
 
-Designed and structure hospital-related tables (patients, doctors, departments, appointments, billing, etc.).
+* Designed and structure hospital-related tables (patients, doctors, departments, appointments, billing, etc.).
 
-SQL queries for CRUD operations (Create, Read, Update, Delete).
+* SQL queries for CRUD operations (Create, Read, Update, Delete).
 
-Answered key business/operational questions through SQL.
+* Answered key business/operational questions through SQL.
 
-Demonstrated advanced SQL concepts like joins, subqueries, window functions, and aggregations.
+* Demonstrated advanced SQL concepts like joins, subqueries, window functions, and aggregations.
 
 🔹 Key Queries & Use Cases
 
-✔️ Retrieved the total revenue generated per hospital branch.
+* Retrieved the total revenue generated per hospital branch.
 
-✔️ Identified the list of patients with their latest appointment date.
+* Identified the list of patients with their latest appointment date.
 
-✔️ Average treatment cost per specialization.
+* Average treatment cost per specialization.
 
-✔️ Retrieved the most common reason for patients to visit.
+* Retrieved the most common reason for patients to visit.
 
-✔️ Ranked top 3 doctors by highest appointment using RANK().
+* Ranked top 3 doctors by highest appointment using RANK().
 
 
 🔹 Tools & Skills Used
 
 SQL (MySQL workbench)
 
-Database Design – Tables, Keys, Normalization
+* Database Design – Tables, Keys, Normalization
 
-Joins & Subqueries – INNER JOIN, CTE, Subquery
+* Joins & Subqueries – INNER JOIN, CTE, Subquery
 
-Aggregate Functions – COUNT, SUM, AVG, GROUP BY, HAVING
+* Aggregate Functions – COUNT, SUM, AVG, GROUP BY, HAVING
 
-Window Functions – RANK()
+* Window Functions – RANK()
 
-Data Cleaning & Integrity – Constraints, Primary & Foreign Keys
+* Data Cleaning & Integrity – Constraints, Primary & Foreign Keys
 
 🔹 Insights Gained
 
-Westside clinic has the highest revenue generated per hospital branch.
+* Westside clinic has the highest revenue generated per hospital branch.
 
-Checkups and consultaion is the most common reason to visit.
+* Checkups and consultaion is the most common reason to visit.
 
-Dermertology department treatment cost is highes than other department.
+* Dermertology department treatment cost is highes than other department.
 
-Doctor who has more number of appointments than other doctors.
-
-🔹 How to Use
-
-Download the SQL scripts and dataset from this repository.
-
-Import the dataset into your SQL environment (MySQL/PostgreSQL/SQLite).
-
-Run schema.sql to create tables and insert sample data.
-
-Run queries.sql to execute business queries and generate insights.
+D* octor who has more number of appointments than other doctors.
 
 🔹 Files in this Repo
 
