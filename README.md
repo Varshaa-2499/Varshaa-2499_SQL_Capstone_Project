@@ -53,7 +53,7 @@ SQL (MySQL workbench)
 
 * Dermertology department treatment cost is highes than other department.
 
-D* octor who has more number of appointments than other doctors.
+* Doctor's who has more number of appointments than other doctors.
 
 🔹 Files in this Repo
 
